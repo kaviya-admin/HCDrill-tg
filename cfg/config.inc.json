@@ -16,7 +16,8 @@
         ".cyh",
         ".tsn",
         ".kfd",
-        ".dsi"
+        ".dsi",
+        ".rf"
     ],
     "stats":{
         "totalFiles":0,
