@@ -5,8 +5,8 @@
     "loopRefresh":50000,
     "keyFile":"./cfg/keyFile.json",
     "validExtensions":[
-        ".dsi",
         ".ePro",
+        ".epro",
         ".acm",
         ".zxc",
         ".hc",
@@ -15,7 +15,8 @@
         ".tmt",
         ".cyh",
         ".tsn",
-        ".kfd"
+        ".kfd",
+        ".dsi"
     ],
     "stats":{
         "totalFiles":0,
